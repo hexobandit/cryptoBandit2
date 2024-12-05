@@ -24,3 +24,7 @@ It’s stylish, efficient, and totally avoids rogue trades (unless your inputs a
 
 1. Set your Slack API token and channel name (line 50)
 1. Set up the Binance API client using your API keys (line 82)
+
+## Example Run
+
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/19ecf258-300c-4187-a073-6a7bff9e562e">
