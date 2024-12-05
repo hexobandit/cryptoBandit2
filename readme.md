@@ -21,3 +21,6 @@ It’s stylish, efficient, and totally avoids rogue trades (unless your inputs a
 1. Dependencies
 
     `pip install -r requirements.txt`
+
+1. Set your Slack API token and channel name (line 50)
+1. Set up the Binance API client using your API keys (line 82)
