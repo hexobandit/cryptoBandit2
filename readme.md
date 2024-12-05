@@ -28,3 +28,6 @@ It’s stylish, efficient, and totally avoids rogue trades (unless your inputs a
 ## Example Run
 
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/19ecf258-300c-4187-a073-6a7bff9e562e">
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/53b395f5-81d3-41b6-9154-7dfba36fb6be">
+
+
