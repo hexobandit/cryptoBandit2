@@ -1,6 +1,6 @@
 # cryptoBandit 2.0 - Buy low & Sell High
 
-CryptoBandit is your color-coded, Slack-integrated crypto trading assistant. 
+Binance API color-coded, Slack-integrated crypto trading automated bot.
 
 What it does:
 1. Connects to Binance, checks your USDT balance, and obeys your buy/sell rules.
